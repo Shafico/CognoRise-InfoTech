@@ -1,0 +1,2 @@
+# CognoRise-InfoTech
+MY POWERBI DATA ANALYSIS PROJECT
