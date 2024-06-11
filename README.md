@@ -57,7 +57,3 @@ This report comprises 2 pages:
    # You can interact with the report [
 ](https://github.com/Shafico/CognoRise-InfoTech/blob/main/CEREALS%20ANALYSIS.png)   
    
-
-Main Dashboard
-
-Insight
