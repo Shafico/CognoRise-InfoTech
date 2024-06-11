@@ -1,5 +1,8 @@
 # CognoRise-InfoTech
 MY POWERBI DATA ANALYSIS PROJECT
+
+CEREALS ANALYSIS
+INTRODUCTION
 This Power BI project delves into the analysis of 80 different cereals, offering valuable insights into various aspects such as consumer preferences,manufacturer and nutritional content including calories,  protein,vitamins, and sugar levels.
 
 Content:
@@ -12,11 +15,8 @@ A = American Home Food Products;
 G = General Mills
 K = Kelloggs
 N = Nabisco
-P = Post
-Q = Quaker Oats
-R = Ralston Purina
-type:
 
+#type:
 hot
 cold
 
@@ -33,7 +33,8 @@ fiber: grams of dietary fiber
 carbo: grams of complex carbohydrates
 cups: number of cups in one serving
 rating: a rating of the cereals (Possibly from Consumer Reports?)
-Problem statement:
+
+#Problem statement:
 
 what manufacturers has the highest Vitamins?
 What manufactures has the highest calories?
@@ -51,6 +52,11 @@ There is only one single table.
 Visualization:
 
 This report comprises 2 pages:
+1. Main Dashboard
+2. Insight:
+   # You can interact with the report [
+](https://github.com/Shafico/CognoRise-InfoTech/blob/main/CEREALS%20ANALYSIS.png)   
+   
 
 Main Dashboard
 
